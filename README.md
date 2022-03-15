@@ -1,5 +1,5 @@
 # Organization-Spring
-Temario de Repositorios
+Repositorios explicando a profundidad tanto Spring como REST utilizando tecnologías como Kafka, Redis, Grafana, Prometheus, etc.
 
 # Temarios de Proyectos
 - Desarrollo de Apis REST utilizando Spring framework + Spring boot
